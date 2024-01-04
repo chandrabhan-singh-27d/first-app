@@ -1,0 +1,2 @@
+Hi, this file is created using fs module 
+Hi, this file is created using fs module 
